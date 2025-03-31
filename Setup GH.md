@@ -1,4 +1,4 @@
-## How to setup GH
+## Setup GH
 
 ### Download GH
 
