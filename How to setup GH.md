@@ -1,4 +1,4 @@
-## GitHub & GH
+## How to setup GH
 
 ### Download GH
 
