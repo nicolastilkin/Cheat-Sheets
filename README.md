@@ -2,36 +2,36 @@
 
 *Just a little cheat sheet repo*
 
-**Linux**
+## Linux
 
-[Linux](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux.md)
+[Linux](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux/Linux.md)
 
-[Ubuntu](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Ubuntu.md)
+[Ubuntu](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux/Ubuntu.md)
 
-[Red Hat](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/RHEL.md)
+[Red Hat](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux/RHEL.md)
 
-**Cloud**
+## Cloud
 
-[AWS](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/AWS.md)
+[AWS](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Cloud/AWS.md)
 
-[Azure](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Azure.md)
+[Azure](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Cloud/Azure.md)
 
-[Terraform](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Terraform.md)
+[Terraform](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Cloud/Terraform.md)
 
-**GitHub**
+## GitHub
 
-[Setup GH on Windows, MacOS and Linux](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Setup%20GH.md)
+[Setup GH on Windows, MacOS and Linux](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/GitHub/Setup%20GH.md)
 
-[Git](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Git.md)
+[Git](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/GitHub/Git.md)
 
-[GitHub](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/GitHub.md)
+[GitHub](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/GitHub/GitHub.md)
 
-**Docker & Kubernetes**
+## Docker & Kubernetes
 
-[Docker](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Docker.md)
+[Docker](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Docker%20%26%20Kubernetes/Docker.md)
 
-[Kubernetes](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Kubernetes.md)
+[Kubernetes](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Docker%20%26%20Kubernetes/Kubernetes.md)
 
-**WSL**
+## WSL
 
-[Setup Kali Linux on WSL](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Setup%20WSL%20%26%20Kali.md)
+[Setup Kali Linux on WSL](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/WSL/Setup%20WSL%20%26%20Kali.md)
