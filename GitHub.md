@@ -1,4 +1,4 @@
-# GitHub Cheat Sheet
+# GitHub
 
 ## Authentication
 ```sh

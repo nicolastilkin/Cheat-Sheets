@@ -1,4 +1,4 @@
-# 🌍 Terraform CLI
+# 🌍 Terraform
 
 ## 🛠️ Setup
 

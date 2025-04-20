@@ -1,4 +1,4 @@
-# ☁️ Azure CLI
+# ☁️ Azure
 
 ## 🛠️ CLI Configuration
 

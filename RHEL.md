@@ -1,4 +1,4 @@
-# 🔴 Red Hat Linux (RHEL) Command Line
+# 🔴 RHEL
 
 ## 📦 Package Management with DNF/YUM
 

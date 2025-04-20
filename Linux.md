@@ -1,4 +1,4 @@
-# 🐧 Linux Command Line Cheat Sheet
+# 🐧 Linux
 
 ## 📁 File & Directory Commands
 

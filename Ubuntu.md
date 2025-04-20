@@ -1,4 +1,4 @@
-# 🐧 Ubuntu Command Line
+# 🐧 Ubuntu
 
 ## 📦 Package Management (APT)
 

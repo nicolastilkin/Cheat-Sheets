@@ -1,4 +1,4 @@
-# ☸️ Kubernetes Cheat Sheet
+# ☸️ Kubernetes
 
 ## 📦 kubectl Basics
 
