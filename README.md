@@ -4,19 +4,19 @@
 
 **Linux**
 
-[Linux Command Line](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux%20Command%20Line.md)
+[Linux](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Linux.md)
 
-[Ubuntu](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Ubuntu%20Command%20Line.md)
+[Ubuntu](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Ubuntu.md)
 
-[Red Hat](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Red%20Hat%20Linux%20(RHEL)%20Command%20Line.md)
+[Red Hat](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/RHEL.md)
 
 **Cloud**
 
-[AWS CLI](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/AWS%20CLI.md)
+[AWS](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/AWS.md)
 
-[Azure CLI](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Azure%20CLI.md)
+[Azure](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Azure.md)
 
-[Terraform](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Terraform%20CLI.md)
+[Terraform](https://github.com/nicolastilkin/Cheat-Sheets/blob/main/Terraform.md)
 
 **GitHub**
 
